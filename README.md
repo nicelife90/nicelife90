@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @nicelife90
-- 👀 I’m interested in PHP, NodeJS, C#, Java, Frontend/Backend programing.
-- 🌱 I’m currently learning .NET Universal Platform.
+- 👀 I’m interested in PHP, NodeJS, C#, Java and Backend programing.
 - 💞️ I’m looking to collaborate on any project related to business workflow.
 - 📫 How to reach me: ylafontaine@allianceti.com
